@@ -5,13 +5,13 @@
 
 | Description | README |
 | ------ | ------ |
-| Getting Started|[]()|
-| Installation | []()|
-| motivation for the project | []() |
-| files in the repository  | []() |
-| Summary of the results  | []() |
-| Article On Medium | []()|
-| Acknowledgements | []()|
+| Getting Started|[GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#getting-started)|
+| Installation | [GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#installation)|
+| Motivation for the project | [GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#Motivation-for-the-project) |
+| Files in the repository  | [GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#Files-in-the-repository) |
+| Summary of the results  | [GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#Summary-of-the-results-) |
+| Article On Medium | [GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#article-on-medium)|
+| Acknowledgements | [GOTO](https://github.com/vinayakn/Bulding-Adblocker-Model#licensing-authors-acknowledgements)|
 
 
 ## Getting Started:
@@ -40,17 +40,17 @@ Anaconda distribution of Python Version 3
 * Ad_OR_Not_Ad_Prediction_Model.ipynb
 * README.Md
 
+## Summary of the results :<br/>
+
 **FOLLOWING ARE THE TRAINING & TESTING SCORES:** <br/>
 
 **Data Modeling:** In this Entire Project we have used Logistic Regression Classification Algorithm. Used GridSearch with 5 folds validation to find best parameter for Classifier. 
 How to handle unbalanced data discussed Please refer to Training & Testing for detail. 
 
-Feel free to try differnet cv's ,Optimizaters, Algorithms & Models etc as you would like!
-
-## Summary of the results :<br/>
+Feel free to try differnet cv's ,Optimizaters, Algorithms & Models etc as you would like!<br/>
 
 |SNO|Model - Logistic Regression	|Accuracy	|Precision	|Recall	|F1 Score	|AUC  |
-|-------------------------------|-----------|-----------|-------|-----------|-----|
+|---|----------------------------|-----------|-----------|-------|-----------|-----|
 |0	|Unbalanced Training Data with CV	|0.969841	|0.981667	|0.983587	|0.982624	|0.978826|
 |1	|Unbalanced Testing Data with CV	|0.804988	|0.957660	|0.789441	|0.865258	|0.924146|
 |2	|Balanced Down Sampled Training Data	|0.920117	|0.901411	|0.937570	|0.918870	|0.974084|
