@@ -60,7 +60,7 @@ Feel free to try differnet cv's ,Optimizaters, Algorithms & Models etc as you wo
 
 ## Article On Medium
 
-The main findings of the code can be found at the post available [here](https://medium.com/@vinayak_navale/are-you-fed-up-with-too-many-ads-on-websites-mobile-80df2f1d3175). if you like feel free to share the post and if give clap!! :)<br/>
+The main findings of the code can be found at the post available [here](https://medium.com/@vinayak_navale/are-you-fed-up-with-too-many-ads-on-websites-mobile-80df2f1d3175). if you like this article feel free to share and clap!! :)<br/>
 
 ## Licensing, Authors, Acknowledgements:
 
